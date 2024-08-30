@@ -24,7 +24,7 @@
   </ul>
 </div>
 
-<img src="/assets/img/programmer.gif">
+<img src="programmer.gif">
 <br>
 
 <h2 align="center">Principais tecnologias:</h2>
