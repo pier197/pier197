@@ -12,9 +12,11 @@
   <a href="https://www.linkedin.com/in/robespierre-santana-silva-72611231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div>
->
-Engenheiro de Dados Júnior com paixão por transformar dados em insights acionáveis. Experiência em coleta, limpeza e transformação de grandes conjuntos de dados utilizando linguagens como Python e SQL. Procuro oportunidades para aplicar meus conhecimentos em projetos desafiadores e colaborar com equipes multidisciplinares
->
+
+<br>
+Engenheiro de Dados Júnior com paixão por transformar dados em insights acionáveis. Experiência em coleta, limpeza e transformação de grandes conjuntos de dados utilizando linguagens como Python e SQL. Procuro oportunidades para aplicar meus conhecimentos em projetos desafiadores e colaborar com equipes multidisciplinares.
+<br>
+
 <div>
   <h3>Eu gosto de...</h3>
   <br>
